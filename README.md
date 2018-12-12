@@ -8,6 +8,7 @@ Do the various criteria for success (critic reviews, audience reviews, profit/lo
 ### Q3.ipynb and Q3-A.ipynb and Q4.ipynb is about exporing the question: 
 Does the plot summary predict success in any useful way? What specific factors are related to a movie's success? Which are the most related? Is paying Woody Allen worth it?
 
-### Q5.py answers the question: Have any of these things changed over time (depending on the movie's release date)?
+### Q5.py answers the question: 
+Have any of these things changed over time (depending on the movie's release date)?
 Run the code as follows: 
 <br>python3 Q5.py wikidata-movies.json.gz rotten-tomatoes.json.gz genres.json.gz
